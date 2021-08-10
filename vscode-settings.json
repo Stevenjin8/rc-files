@@ -1,0 +1,39 @@
+{
+    "workbench.colorTheme": "Solarized Light",
+    "window.zoomLevel": 3,
+    "editor.suggestSelection": "first",
+    "editor.formatOnSave": true,
+    "editor.autoClosingBrackets": "never",
+    "editor.autoClosingQuotes": "never",
+    "editor.renderWhitespace": "boundary",
+    "editor.minimap.enabled": false,
+    "editor.rulers": [
+        88
+    ],
+    "vsintellicode.modify.editor.suggestSelection": "automaticallyOverrodeDefaultValue",
+    "workbench.editorAssociations": {
+        "*.ipynb": "jupyter-notebook"
+    },
+    "notebook.cellToolbarLocation": {
+        "default": "right",
+        "jupyter-notebook": "left"
+    },
+    "python.linting.lintOnSave": true,
+    "python.linting.pylintEnabled": true,
+    "python.linting.pylintUseMinimalCheckers": false,
+    "python.formatting.provider": "black",
+    "python.envFile": "${workspaceFolder}/.env",
+    "python.venvPath": "${workspaceFolder}/.venv",
+    "vsintellicode.features.python.deepLearning": "enabled",
+    "python.analysis.completeFunctionParens": false,
+    "cSpell.userWords": [
+        "dtype",
+        "finfo",
+        "mlapp",
+        "numpy",
+        "pytest",
+        "scipy",
+        "sklearn"
+    ],
+    "vim.foldfix": true,
+}
